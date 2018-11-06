@@ -1,0 +1,9 @@
+#qt
+
+#vs2008
+*.ncb
+*.suo
+win32/
+[Dd]ebug/
+GeneratedFiles/
+TestGit.*.user
