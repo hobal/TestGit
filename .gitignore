@@ -1,9 +1,35 @@
 #qt
+GeneratedFiles/
 
 #vs2008
 *.ncb
 *.suo
+*.user
 win32/
-[Dd]ebug/
-GeneratedFiles/
-TestGit.*.user
+[Dd]ebug*/
+[Rr]elease*/
+
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+*.lib
+*.sbr
+obj/
+_ReSharper*/
+[Tt]est[Rr]esult*
